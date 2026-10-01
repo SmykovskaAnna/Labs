@@ -1,0 +1,7 @@
+git commit -m "Add lab1 Symfony and Laravel"**/vendor/
+**/.env 
+**/.env.* 
+!**/.env.example 
+**/node_modules/ 
+**/.phpunit.result.cache
+.DS_Store
